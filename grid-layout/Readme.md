@@ -86,7 +86,7 @@
 
 .container .main {
   grid-area: main;
-} 
+}
 ```
 
 ## 九宫格
